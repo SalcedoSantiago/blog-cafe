@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Blog de Café</title>
+
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="no-margin contenido-header">
+    <div class="contenedor texto-header">
+        <h1 class="no-margin">Blog<span>DeCafé</span></h1>
+
+        <nav class="navegacion">
+            <a href="nosotros.html">Nosotros</a>
+            <a href="#">Cursos</a>
+            <a href="#">Contacto</a>
+        </nav>
+    </div>
+    <section class="contenedor texto-primero">
+        <h2 div="no-margin">Blog de café con consejos y cursos</h2>
+        <p div="no-margin">aprende de los expertos con las mejores recetas y consejos</p>
+
+    </section>
+    </header>
+
+
+
+
+
+
+
+
+       <footer class="contenido-footer">
+        <div class="contenedor footer">
+            <div class="">
+                <h2 class="texto-fut">Blog<span>DeCafé</span></h2>
+            </div>
+            <nav class="navegacion">
+                <a href="nosotros.html">Nosotros</a>
+                <a href="#">Cursos</a>
+                <a href="#">Contacto</a>
+            </nav>
+        </div>
+        
+
+    </footer>
+</body>
+</html>
